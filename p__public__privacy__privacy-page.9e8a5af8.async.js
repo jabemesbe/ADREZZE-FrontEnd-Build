@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[18],{Nxaw:function(n,t,r){"use strict";r.r(t),r.d(t,"default",(function(){return a}));var c=r("nKUr"),e=(r("q1tI"),r("tMyG")),a=function(){return Object(c["jsx"])(e["a"],{children:"Privacy Page"})}}}]);
