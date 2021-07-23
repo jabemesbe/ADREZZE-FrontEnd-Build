@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[8],{nUiL:function(n,t,c){"use strict";c.r(t),c.d(t,"default",(function(){return i}));var e=c("nKUr"),r=(c("q1tI"),c("tMyG")),i=function(){return Object(e["jsx"])(r["a"],{children:"Contact Page"})}}}]);

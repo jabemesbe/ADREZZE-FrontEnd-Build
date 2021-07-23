@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[9],{"1knr":function(n,t,r){"use strict";r.r(t),r.d(t,"default",(function(){return a}));var e=r("nKUr"),u=(r("q1tI"),r("tMyG")),a=function(){return Object(e["jsx"])(u["a"],{children:"Manual Page"})}}}]);

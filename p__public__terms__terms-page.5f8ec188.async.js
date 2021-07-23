@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[21],{BReU:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return u}));var r=t("nKUr"),c=(t("q1tI"),t("tMyG")),u=function(){return Object(r["jsx"])(c["a"],{children:"Terms Page"})}}}]);
